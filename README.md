@@ -3,7 +3,7 @@
 ## Description
 ClauseBERT is a BERT-based sequence classifier designed to categorize paragraphs from commercial contracts into 10 target classes (9 specific risk clauses + 1 "Other" class). It is part of the [ClauseLens](https://github.com/weiss25r/ClauseLens) project and it is trained using the [CUAD](https://huggingface.co/datasets/theatticusproject/cuad/tree/main/CUAD_v1$0) dataset. 
 
-The trained model is available in ONNX and safetensor formats on [HuggingFace](https://huggingface.co/raffaele-terracino/ClauseBERT).
+The trained model is available in ONNX format on [HuggingFace](https://huggingface.co/raffaele-terracino/ClauseBERT).
 
 ## Tech stack
 - Pytorch
