@@ -33,6 +33,7 @@ The project consists of interactive Jupyter Notebooks and source code written us
 ├── .gitignore
 ├── LICENSE
 └── README.md
+└── requirements.txt
 ```
 ## Architecture and training details
 The ```ClauseDataset``` class in ```src/dataset.py``` tokenizes the data using a specified tokenizer, preparing it for BERT. The backbone model and tokenizer are imported from the Transformers library.
