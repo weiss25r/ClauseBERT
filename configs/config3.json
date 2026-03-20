@@ -1,0 +1,9 @@
+{
+    "learning_rate": 5e-5,
+    "epochs": 3,
+    "batch_size": 32,
+    "weight_decay": 0.01,
+    "architecture": "bert-base-uncased",
+    "export_folder": "../models/",
+    "exp_name": "clause_bert_version_3"
+}
