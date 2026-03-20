@@ -10,6 +10,7 @@ The trained model is available in ONNX and safetensor formats on [HuggingFace](h
 - Transformers
 - ONNX
 - Weights & Biases
+- Pandas
 
 ## Project Pipeline
 The project consists of interactive Jupyter Notebooks and source code written using Pytorch. **Weights & Biases** is used to log experiments losses, metrics and confusion matrices. The full pipeline is as follows:
@@ -65,3 +66,7 @@ The table below show metrics computed on the test set using the chosen classifie
 
 ## Acknowledgments
 All rights belong to the authors of the [Contract Understanding Atticus Dataset](https://huggingface.co/datasets/theatticusproject/cuad/tree/main/CUAD_v1$0). The dataset is licensed by a CC-BY 4.0 license.
+
+## References
+[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+[bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased)
