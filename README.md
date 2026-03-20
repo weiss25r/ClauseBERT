@@ -70,4 +70,5 @@ All rights belong to the authors of the [Contract Understanding Atticus Dataset]
 ## References
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 
+
 Base model: [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased)
